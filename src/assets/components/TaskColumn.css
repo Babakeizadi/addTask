@@ -1,0 +1,8 @@
+.task-column{
+    width:33%;
+    margin: 20px;
+    text-align:center;
+  }
+  .task-column h2 svg {
+    margin-right: 5px;
+  }

@@ -1,0 +1,15 @@
+.hedear{
+    padding-top: 10px;
+    margin:0 auto;
+    width:50%;
+    text-align:center;
+}
+.task-input{
+    width: 100%;
+    padding: 10px 15px;
+}
+.button-tags{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}

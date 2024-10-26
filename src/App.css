@@ -1,0 +1,8 @@
+.app{
+  display: grid;
+  grid-template-rows: 150px auto;
+}
+.main{
+  display: flex;
+  justify-content: space-evenly;
+}

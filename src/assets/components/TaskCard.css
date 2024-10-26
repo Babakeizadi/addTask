@@ -1,0 +1,21 @@
+.task-card {
+    margin:10px 0;
+    border: 1px solid black;
+}
+
+.tag-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px ;
+}
+
+.tag-line svg {
+    font-size: 25px;
+    color: gray;
+    transition: all 0.3s;
+}
+
+.tag-line svg:hover {
+    color: red;
+}
